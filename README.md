@@ -1,11 +1,6 @@
 # daje-servicos-mvp
 MVP de suporte operacional e vistorias técnicas para a DAJE Serviços — Alinhado ao ODS 8.
 
-Aqui está o modelo completo e profissional para o arquivo **`README.md`** do seu repositório no GitHub. Ele foi estruturado para atender com excelência aos critérios avaliados pela banca: identificação objetiva do MVP, contextualização da **DAJE Serviços**, alinhamento com o **ODS 8 da ONU**, stack tecnológica, arquitetura, acessibilidade (WCAG AA) e instruções de execução.
-
-Basta copiar o conteúdo abaixo e colar no arquivo `README.md` na raiz do seu repositório:
-
----
 
 ```markdown
 # DAJE Serviços — Sistema de Vistorias e Apoio de Campo (MVP)
@@ -151,4 +146,3 @@ Este projeto é desenvolvido para fins educacionais e acadêmicos sob a licença
 
 ---
 
-Deseja que eu ajude agora a criar o arquivo de dependências (`requirements.txt`), o arquivo do fluxo de testes automatizados (`.github/workflows/ci.yml`) ou o código-fonte da aplicação (backend e frontend)?
